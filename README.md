@@ -1,6 +1,7 @@
 # Material-Para-DAWeb_BD_5I
 Tenemos link de referencia mas documentos Agosto 2024
 - Eliseo Nava
+- 
 ## Desarrollo web
 - desarrollo web en tecnologías fundamentales como CSS, HTML y JavaScript
 - https://www.eniun.com/cursos-diseno-desarrollo-web/
@@ -17,7 +18,8 @@ Tenemos link de referencia mas documentos Agosto 2024
 - Python   https://www.w3schools.com/python/default.asp
 - Descargar Python
 - https://www.python.org/downloads/
-
+- video curso de programacion ![](https://youtu.be/yJg0_7r3f-M?si=WxQRV1B2hGFYd-OU)
+- 
 - Programacion en online
 - https://coddy.tech/
 - ![image](https://github.com/user-attachments/assets/0cfb7f2c-ab7b-4e62-a407-b472731d63d5)
