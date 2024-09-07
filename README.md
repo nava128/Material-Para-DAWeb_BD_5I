@@ -19,7 +19,7 @@ Tenemos link de referencia mas documentos Agosto 2024
 - Descargar Python
 - https://www.python.org/downloads/
 - 
- ![video curso de programacion](https://youtu.be/yJg0_7r3f-M?si=WxQRV1B2hGFYd-OU)
+- ![video curso de programacion](https://youtu.be/yJg0_7r3f-M?si=WxQRV1B2hGFYd-OU)
 - 
 - Programacion en online
 - https://coddy.tech/
